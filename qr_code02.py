@@ -9,3 +9,4 @@ qr.add_data("https://www.linkedin.com/in/amit-kumar-yadav-5b34ba227")
 qr.make(fit=True)
 img=qr.make_image(fill_color="black",back_color="white")
 img.save("profile2.png")
+# helloo
